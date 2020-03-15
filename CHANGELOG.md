@@ -1,47 +1,36 @@
-commit b43186fa2a14cfc61132203f816a1d4befaa68b8 (HEAD -> test_changelog)
-Author: Magdalena <magdalenaszultk@gmail.com>
-Commit: Magdalena <magdalenaszultk@gmail.com>
-
-    add changelog
-
-commit 15b44e0dba4ba55535d75ed95c127de224a9ac09 (origin/test_changelog)
-Author: Magdalena <magdalenaszultk@gmail.com>
-Commit: Magdalena <magdalenaszultk@gmail.com>
-
-    add test5 file
-
-commit e6640ec4a093d286e90494057a6a1dabc2df4d31
-Author: Magdalena <magdalenaszultk@gmail.com>
-Commit: Magdalena <magdalenaszultk@gmail.com>
-
-    add test4
-
-commit e52bcc64c87f9a88963a04582e9292e4d4a92490
-Author: Magdalena <magdalenaszultk@gmail.com>
-Commit: Magdalena <magdalenaszultk@gmail.com>
-
-    add test3 file
-
-commit 51dac4339522a74dff439a9d0affc3dcfd7bbd01
-Author: Magdalena <magdalenaszultk@gmail.com>
-Commit: Magdalena <magdalenaszultk@gmail.com>
-
-    add test2
-
-commit 3d82ea25538052fbe221a7a0fa6fc081e2db7d79
-Author: Magdalena <magdalenaszultk@gmail.com>
-Commit: Magdalena <magdalenaszultk@gmail.com>
-
-    add test_1 file
-
-commit e1373769934883d13e255ccd7243a094b9fc5c10
-Author: Magdalena <magdalenaszultk@gmail.com>
-Commit: Magdalena <magdalenaszultk@gmail.com>
-
-    add new file
-
-commit 8e10f6794e1dded4aee19bdb22ab5cda9eff2608 (origin/master, origin/HEAD)
-Author: Magdalena <magdalenaszultk@gmail.com>
-Commit: GitHub <noreply@github.com>
-
-    Initial commit
+### Author: Magdalena
+ 0 seconds ago
+### Commit hash 7b51fb0
+ add test6 file
+### Author: Magdalena
+ 16 minutes ago
+### Commit hash b43186f
+ add changelog
+### Author: Magdalena
+ 21 minutes ago
+### Commit hash 15b44e0
+ add test5 file
+### Author: Magdalena
+ 22 minutes ago
+### Commit hash e6640ec
+ add test4
+### Author: Magdalena
+ 26 minutes ago
+### Commit hash e52bcc6
+ add test3 file
+### Author: Magdalena
+ 27 minutes ago
+### Commit hash 51dac43
+ add test2
+### Author: Magdalena
+ 32 minutes ago
+### Commit hash 3d82ea2
+ add test_1 file
+### Author: Magdalena
+ 34 minutes ago
+### Commit hash e137376
+ add new file
+### Author: Magdalena
+ 3 hours ago
+### Commit hash 8e10f67
+ Initial commit
