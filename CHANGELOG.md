@@ -1,4 +1,10 @@
-commit 15b44e0dba4ba55535d75ed95c127de224a9ac09 (HEAD -> test_changelog)
+commit b43186fa2a14cfc61132203f816a1d4befaa68b8 (HEAD -> test_changelog)
+Author: Magdalena <magdalenaszultk@gmail.com>
+Commit: Magdalena <magdalenaszultk@gmail.com>
+
+    add changelog
+
+commit 15b44e0dba4ba55535d75ed95c127de224a9ac09 (origin/test_changelog)
 Author: Magdalena <magdalenaszultk@gmail.com>
 Commit: Magdalena <magdalenaszultk@gmail.com>
 
